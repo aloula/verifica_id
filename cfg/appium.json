@@ -1,0 +1,13 @@
+{
+    "platformName": "Android",
+    "platformVersion": "13",
+    "deviceName": "Pixel_4_API_33",
+    "appPackage": "com.google.android.dialer",
+    "appActivity": "com.google.android.dialer.extensions.GoogleDialtactsActivity",
+    "automationName": "UiAutomator2",
+    "ensureWebviewsHavePages": true,
+    "nativeWebScreenshot": true,
+    "newCommandTimeout": 3600,
+    "autoGrantPermissions": true,
+    "noReset": false
+  }
