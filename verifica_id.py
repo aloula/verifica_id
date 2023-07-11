@@ -51,7 +51,7 @@ def main():
         timeout = int(args.Timeout)
         print("Verificando Resource ID:", resource_id)
         try:
-            print("Conectando ao dipositivo...")
+            print("Conectando-se ao dipositivo...")
             sleep(1)
             driver = connect_device(config_file)
         except:
