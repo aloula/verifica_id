@@ -1,6 +1,8 @@
 ## Verifica IDs
 
-Script para verificação de IDs (Resource ou Accessibility) utilizados para automação de testes de APPs (Android ou iOS) com Appium 
+Script para verificação de IDs (Resource ou Accessibility) utilizados para automação de testes de APPs (Android ou iOS) com Appium.
+
+Link para acesso ao [Vídeo](https://www.youtube.com/watch?v=WJZn_kkKVPc) do script rodando.
 
 ### Pré-requisitos:
 
